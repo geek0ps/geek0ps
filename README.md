@@ -7,7 +7,7 @@
 
 #### git commit -m 'I am a Software Developer at Betremit.co'
 
-🔗 **Want to check out my website ❓ [Click Here](speak2nate.netlify.com)**
+🔗 **Want to check out my website ❓ [Click Here](speak2fortunate.netlify.com)**
 
 ![]()
 
