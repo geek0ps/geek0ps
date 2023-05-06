@@ -3,7 +3,7 @@
 
 
 
-# 🔗 Hi  :+1:  I'm Omoleye Julius Fortunate
+#### I'm Omoleye Julius Fortunate
 
 #### I am a Software Developer x Cloud Engineer
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on the  :moneybag: Next Big Thing
 - 🌱 I’m currently learning Machine Learning and Devops
-- 👯 I’m looking to collaborate on  :snake:   **Software Engineering Projects**
+- 👯 I’m looking to collaborate on  :snake:   **Software/DevOps Engineering Projects**
 - 🤔 I promise i'm more of a full stack engineer 🙂. but i'm sorry i also dont like CSS
 - 💬 Ask me about Anything
 - 📫 How to reach me: **julius.omoleye@outlook.com**
