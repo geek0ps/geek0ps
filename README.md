@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Julius Omoleye
 
-Welcome to my GitHub profile! I'm a final year Statistics student, DevOps Instructor, and Engineer. I'm passionate about both statistics and DevOps and I love to combine my knowledge in these areas to build scalable and efficient systems.
+Welcome to my GitHub profile! I'm a Statistician, DevOps Instructor, and Engineer. I'm passionate about both statistics and DevOps and I love to combine my knowledge in these areas to build scalable and efficient systems.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asyncdeveloper245&show_icons=true&count_private=true&theme=radical)
 
