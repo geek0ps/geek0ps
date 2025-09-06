@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Python Developer, DevOps Instructor, and Engineer. I'm passionate about both automation and DevOps and I love to combine my knowledge in these areas to build scalable and efficient systems.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geek0ps&show_icons=true&count_private=true&theme=radical)
-
 ## 🚀 Articles:
 
 - [Linux Permissions Unraveled: How to Avoid ‘chmod 777’ and Keep the Chaos at Bay!](https://medium.com/@devineer/linux-permissions-unraveled-how-to-avoid-chmod-777-and-keep-the-chaos-at-bay-8874e069a121).
